@@ -69,7 +69,7 @@ def caclu():
         elif request.json["language"] == "English":
             skill_csv = pd.read_csv('skill_eng.csv')
         else:
-            skill_csv = pd.read_csv('skill_tw_hk.csv')
+            skill_csv = pd.read_csv('skill_ja.csv')
 
         user_data_file[" attackName"] = user_data_file[" attackID"]
 
