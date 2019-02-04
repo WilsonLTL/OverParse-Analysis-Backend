@@ -79,8 +79,8 @@ def caclu():
         # print(user_data_file[" attackName"])
         # user_data_file["attack_name"] = user_data_file[" attackID"]
 
-        # user_data_file = user_data_file[(user_data_file["timestamp"] >= request.json["start_time"]) & (
-        #             user_data_file["timestamp"] <= request.json["end_time"])]
+        user_data_file = user_data_file[(user_data_file["timestamp"] >= request.json["start_time"]) & (
+                    user_data_file["timestamp"] <= request.json["end_time"])]
 
 
         player = user_data_file[
