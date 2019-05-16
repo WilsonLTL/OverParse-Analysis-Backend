@@ -2,10 +2,44 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cacee953-7cbf-405b-b093-dbb69a130555" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/skills_ja.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/overparse_analysis_backend.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/overparse_analysis_backend.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1548071875.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1548470427.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1548756802.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1548904502.csv" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/record/PSO2-ARKS-RECORD-1572/cal.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/record/PSO2-ARKS-RECORD-1572/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/record/PSO2-ARKS-RECORD-1572/result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/record/PSO2-ARKS-RECORD-1924/cal.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/record/PSO2-ARKS-RECORD-1924/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/record/PSO2-ARKS-RECORD-1924/result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/record/PSO2-ARKS-RECORD-3329/cal.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/record/PSO2-ARKS-RECORD-3329/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/record/PSO2-ARKS-RECORD-3329/result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/record/PSO2-ARKS-RECORD-369/cal.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/record/PSO2-ARKS-RECORD-369/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/record/PSO2-ARKS-RECORD-369/result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/record/PSO2-ARKS-RECORD-5600/cal.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/record/PSO2-ARKS-RECORD-5600/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/record/PSO2-ARKS-RECORD-5600/result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/record/PSO2-ARKS-RECORD-7854/cal.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/record/PSO2-ARKS-RECORD-7854/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/record/PSO2-ARKS-RECORD-7854/result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/record/PSO2-ARKS-RECORD-8194/cal.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/record/PSO2-ARKS-RECORD-8194/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/record/PSO2-ARKS-RECORD-8194/result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/record/PSO2-ARKS-RECORD-9301/cal.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/record/PSO2-ARKS-RECORD-9301/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/record/PSO2-ARKS-RECORD-9301/result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/record/PSO2-ARKS-RECORD-9476/cal.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/record/PSO2-ARKS-RECORD-9476/config.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/record/PSO2-ARKS-RECORD-9476/result.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/skill_eng.csv" beforeDir="false" afterPath="$PROJECT_DIR$/skill_eng.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skill_ja.csv" beforeDir="false" afterPath="$PROJECT_DIR$/skill_ja.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/skill_tw_hk.csv" beforeDir="false" afterPath="$PROJECT_DIR$/skill_tw_hk.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_file/1548470427.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_file/1548470427_old.csv" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,18 +49,19 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/overparse_analysis_backend$Main.coverage" NAME="Main Coverage Results" MODIFIED="1549248427421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/overparse_analysis_backend$language_translate.coverage" NAME="language translate Coverage Results" MODIFIED="1549596922290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/overparse_analysis_backend$Main.coverage" NAME="Main Coverage Results" MODIFIED="1556361639676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FavoritesManager">
     <favorites_list name="overparse_analysis_backend" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="69" column="52" lean-forward="true" selection-start-line="69" selection-start-column="52" selection-end-line="69" selection-end-column="52" />
+            <state relative-caret-position="150">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
@@ -34,20 +69,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="skills_ja.csv" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/skills_ja.csv">
+      <file leaf-file-name="Dockerfile" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Dockerfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="25" selection-start-column="25" selection-end-column="25" />
+            <state relative-caret-position="90">
+              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cal.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/record/PSO2-ARKS-RECORD-369/cal.csv">
+      <file leaf-file-name=".gitlab-ci.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitlab-ci.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="22" column="42" lean-forward="true" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+            <state relative-caret-position="135">
+              <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/requirements.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -55,8 +99,8 @@
       <file leaf-file-name="skill_eng.csv" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/skill_eng.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="25" selection-start-column="25" selection-end-column="25" />
+            <state relative-caret-position="17655">
+              <caret line="1177" column="27" selection-start-line="1177" selection-start-column="27" selection-end-line="1177" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -64,44 +108,17 @@
       <file leaf-file-name="skill_tw_hk.csv" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/skill_tw_hk.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-column="25" />
+            <state relative-caret-position="20865">
+              <caret line="1391" column="8" selection-start-line="1391" selection-start-column="8" selection-end-line="1391" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1548756802.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1548756802.csv">
+      <file leaf-file-name="skill_ja.csv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/skill_ja.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="53373" column="23" selection-start-line="53373" selection-start-column="23" selection-end-line="53373" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="1548071875.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1548071875.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="1548470427.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1548470427.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="1548904502.csv" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1548904502.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
-              <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+            <state relative-caret-position="38">
+              <caret line="205" column="40" selection-start-line="205" selection-start-column="40" selection-end-line="205" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -138,7 +155,9 @@
       <find>レギオン</find>
       <find>pandas</find>
       <find>skill_list</find>
+      <find>skill_ja</find>
       <find>2608912395</find>
+      <find>2071807444</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -147,17 +166,21 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/skill_tw_hk.csv" />
         <option value="$PROJECT_DIR$/skill_tw_hk.csv - skills_tw_hk.csv" />
         <option value="$PROJECT_DIR$/1548470427.csv" />
         <option value="$PROJECT_DIR$/test_file/1548470427_old.csv" />
-        <option value="$PROJECT_DIR$/1548071875.csv" />
         <option value="$PROJECT_DIR$/1548756802.csv" />
-        <option value="$PROJECT_DIR$/1548904502.csv" />
-        <option value="$PROJECT_DIR$/skill_eng.csv" />
         <option value="$PROJECT_DIR$/requirements.txt" />
-        <option value="$PROJECT_DIR$/Main.py" />
         <option value="$PROJECT_DIR$/skills_ja.csv" />
+        <option value="$PROJECT_DIR$/1548904502.csv" />
+        <option value="$PROJECT_DIR$/1548071875.csv" />
+        <option value="$PROJECT_DIR$/language translate.py" />
+        <option value="$PROJECT_DIR$/skill_eng.csv" />
+        <option value="$PROJECT_DIR$/skill_tw_hk.csv" />
+        <option value="$PROJECT_DIR$/skill_ja.csv" />
+        <option value="$PROJECT_DIR$/Main.py" />
+        <option value="$PROJECT_DIR$/Dockerfile" />
+        <option value="$PROJECT_DIR$/.gitlab-ci.yml" />
       </list>
     </option>
   </component>
@@ -171,9 +194,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="842" />
+    <option name="x" value="832" />
     <option name="y" value="23" />
-    <option name="width" value="838" />
+    <option name="width" value="848" />
     <option name="height" value="982" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -182,6 +205,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -189,22 +213,10 @@
               <item name="overparse_analysis_backend" type="b2602c69:ProjectViewProjectNode" />
               <item name="overparse_analysis_backend" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="overparse_analysis_backend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="overparse_analysis_backend" type="462c0819:PsiDirectoryNode" />
-              <item name="record" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="overparse_analysis_backend" type="b2602c69:ProjectViewProjectNode" />
-              <item name="overparse_analysis_backend" type="462c0819:PsiDirectoryNode" />
-              <item name="record" type="462c0819:PsiDirectoryNode" />
-              <item name="PSO2-ARKS-RECORD-369" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -214,12 +226,12 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/test_file" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -234,7 +246,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.Main">
     <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="overparse_analysis_backend" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -254,9 +266,33 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="language translate" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="overparse_analysis_backend" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/language translate.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.Main" />
+      <item itemvalue="Python.language translate" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.Main" />
+        <item itemvalue="Python.language translate" />
       </list>
     </recent_temporary>
   </component>
@@ -274,30 +310,30 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="842" y="23" width="838" height="982" extended-state="0" />
+    <frame x="832" y="23" width="848" height="982" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2519774" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.21129943" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.20564972" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49910873" visible="true" weight="0.2223618" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.2621469" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49910873" visible="true" weight="0.27791563" />
       <window_info anchor="bottom" id="Docker" order="7" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3299435" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39954853" />
       <window_info id="Favorites" order="2" sideWeight="0.50089127" side_tool="true" weight="0.27192008" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3299435" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -314,238 +350,120 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1095">
-          <caret line="73" column="66" selection-start-line="73" selection-start-column="66" selection-end-line="73" selection-end-column="66" />
+        <state relative-caret-position="2355">
+          <caret line="163" column="12" selection-start-line="163" selection-start-column="12" selection-end-line="163" selection-end-column="12" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1548071875.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="53" column="55" selection-start-line="53" selection-start-column="55" selection-end-line="53" selection-end-column="55" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1548071875.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="26" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1548071875.xlsx" />
-    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.1/python_stubs/-1305814833/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="1318" column="12" lean-forward="true" selection-start-line="1318" selection-start-column="12" selection-end-line="1318" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/skill_tw_hk.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/record/PSO2-ARKS-RECORD548/before_cal.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/record/PSO2-ARKS-RECORD1272/before_cal.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/record/PSO2-ARKS-RECORD-196/before_cal.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-122264" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/record/PSO2-ARKS-RECORD-310/after_cal.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/record/PSO2-ARKS-RECORD-608/before_cal.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/record/PSO2-ARKS-RECORD-608/after_cal.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_file/1548470427_old.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/record/PSO2-ARKS-RECORD-94/result.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/record/PSO2-ARKS-RECORD-5010/result.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret column="502" selection-start-column="502" selection-end-column="502" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/record/PSO2-ARKS-RECORD-8611/result.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="52">
-          <caret column="1753" lean-forward="true" selection-start-column="1753" selection-end-column="1753" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test_file/1548470427.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="16" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/record/PSO2-ARKS-RECORD-9711/cal.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-331116" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/record/PSO2-ARKS-RECORD-9133/cal.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-672" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/record/PSO2-ARKS-RECORD-9014/cal.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/record/PSO2-ARKS-RECORD-8378/cal.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="212395" column="29" selection-start-line="212395" selection-start-column="22" selection-end-line="212395" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/record/PSO2-ARKS-RECORD-2755/cal.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/record/PSO2-ARKS-RECORD-3314/cal.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="60587" column="23" selection-start-line="60587" selection-start-column="23" selection-end-line="60587" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/record/PSO2-ARKS-RECORD-2526/cal.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/record/PSO2-ARKS-RECORD-4286/cal.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="9556" column="42" selection-start-line="9556" selection-start-column="42" selection-end-line="9556" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1548904502.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1548756802.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="53373" column="23" selection-start-line="53373" selection-start-column="23" selection-end-line="53373" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1548071875.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1548470427.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/record/PSO2-ARKS-RECORD-8194/cal.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="38" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/record/PSO2-ARKS-RECORD-6725/cal.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-143114" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/skills_en - skills_en.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="22" selection-end-line="1286" selection-end-column="66" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/skill_eng.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        <state relative-caret-position="17655">
+          <caret line="1177" column="27" selection-start-line="1177" selection-start-column="27" selection-end-line="1177" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requirements.txt">
+    <entry file="file://$PROJECT_DIR$/skill_tw_hk.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        <state relative-caret-position="20865">
+          <caret line="1391" column="8" selection-start-line="1391" selection-start-column="8" selection-end-line="1391" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/record/PSO2-ARKS-RECORD-369/result.json">
+    <entry file="file://$PROJECT_DIR$/skill_ja.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret column="546" selection-start-column="546" selection-end-column="546" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/record/PSO2-ARKS-RECORD-369/cal.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="22" column="42" lean-forward="true" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+        <state relative-caret-position="3075">
+          <caret line="205" column="40" lean-forward="true" selection-start-line="205" selection-start-column="40" selection-end-line="205" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="69" column="52" lean-forward="true" selection-start-line="69" selection-start-column="52" selection-end-line="69" selection-end-column="52" />
+        <state relative-caret-position="2400">
+          <caret line="166" selection-start-line="166" selection-end-line="166" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skill_eng.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21495">
+          <caret line="1433" column="26" selection-start-line="1433" selection-start-column="26" selection-end-line="1433" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skill_tw_hk.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21495">
+          <caret line="1433" column="18" selection-start-line="1433" selection-start-column="18" selection-end-line="1433" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skill_ja.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21015">
+          <caret line="1401" column="23" lean-forward="true" selection-start-line="1401" selection-start-column="23" selection-end-line="1401" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2400">
+          <caret line="166" lean-forward="true" selection-start-line="166" selection-end-line="166" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="9" selection-start-line="8" selection-end-line="9" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2790">
+          <caret line="192" column="61" selection-start-line="192" selection-start-column="4" selection-end-line="192" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2790">
+          <caret line="192" column="61" lean-forward="true" selection-start-line="192" selection-start-column="4" selection-end-line="192" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2535">
+          <caret line="175" column="43" selection-start-line="175" selection-start-column="43" selection-end-line="175" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1905">
+          <caret line="133" column="23" selection-start-line="133" selection-start-column="17" selection-end-line="133" selection-end-column="23" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
@@ -554,15 +472,56 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/skill_tw_hk.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="25" />
+        <state relative-caret-position="20865">
+          <caret line="1391" column="8" selection-start-line="1391" selection-start-column="8" selection-end-line="1391" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/skills_ja.csv">
+    <entry file="file://$PROJECT_DIR$/skill_eng.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="25" selection-start-column="25" selection-end-column="25" />
+        <state relative-caret-position="17655">
+          <caret line="1177" column="27" selection-start-line="1177" selection-start-column="27" selection-end-line="1177" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/skill_ja.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="205" column="40" selection-start-line="205" selection-start-column="40" selection-end-line="205" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1548071875.csv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="11" selection-start-line="2" selection-start-column="11" selection-end-line="2" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitlab-ci.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="24" lean-forward="true" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

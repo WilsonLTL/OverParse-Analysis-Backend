@@ -1,4 +1,4 @@
-attName,attID,attDecs,4,5
+attName,attID,attDecs,4,5,
 通常攻撃(沒有武器),3481186334,Melee,素手 first normal attack,
 通常攻撃(沒有武器),1578628668,Melee,素手 second normal attack,
 通常攻撃(沒有武器),888355388,Melee,素手 third normal attack,
@@ -7,15 +7,15 @@ attName,attID,attDecs,4,5
 通常攻撃(沒有武器),2213730805,Melee,素手 air third normal attack,
 墊步攻擊(沒有武器),2071807444,Melee,素手 ステップアタック,
 俯身重拳(沒有武器),3085782811,PA,Unarmed,
-通常攻撃(長杖),1698836726,Melee,Rod first normal attack,Fo
-通常攻撃(長杖),1698835954,Melee,Rod second normal attack,Fo
-通常攻撃(長杖),1698835891,Melee,Rod third normal attack,Fo
+通常攻撃(長杖),1698836726,Melee,Rod first normal attack,
+通常攻撃(長杖),1698835954,Melee,Rod second normal attack,
+通常攻撃(長杖),1698835891,Melee,Rod third normal attack,
 通常攻撃(導具),603769614,Ranged,Talis first normal attack,
 通常攻撃(導具),603769679,Ranged,Talis second normal attack,
 通常攻撃(導具),603769484,Ranged,Talis third normal attack,
-法撃彈,82081592,Melee,Rod Shoot,Fo
-翻滾射擊,102418521,Special,Another Rod Shooting Mode ring,Fo
-凍結爆炸,3533119346,Special,Freeze Ignition (Fo skill),Fo
+法撃彈,82081592,Melee,Rod Shoot,
+翻滾射擊,102418521,Special,Another Rod Shooting Mode ring,
+凍結爆炸,3533119346,Special,Freeze Ignition (Fo skill),
 火球,2875245395,Tech,Uncharged,
 火球,169905548,Tech,Charged,
 火環,46933754,Tech,Uncharged,
@@ -67,9 +67,9 @@ attName,attID,attDecs,4,5
 強電磁場,3588292375,Tech,Charged,
 強電磁場,2651268955,Tech,Uncharged,
 雷電領域,2789601843,Tech,Charged,
-雷電領域,3856490257,Tech,"Charged ""first thunder""",
+雷電領域,3856490257,Tech,Charged first thunder,
 雷電領域,4278420419,Tech,Uncharged,
-雷電領域,1343119479,Tech,"Uncharged Nazonde ""first thunder""",
+雷電領域,1343119479,Tech,Uncharged Nazonde first thunder,
 雷鳥衝擊,1756866220,Tech,Charged,
 雷鳥衝擊,2398664728,Tech,Uncharged,
 風刃,521246550,Tech,Charged,
@@ -308,7 +308,7 @@ Enemy Thrown,2164805818,PA,beatdown,
 通常攻撃(銃劍),2125202658,Ranged,Gunslash R1,
 通常攻撃(銃劍),4276570552,Ranged,Gunslash R2,
 通常攻撃(銃劍),2867139739,Ranged,Gunslash R3,
- 墊步攻擊(銃劍),2277392279,Melee,Gunslash Step,
+墊步攻擊(銃劍),2277392279,Melee,Gunslash Step,
 三重衝擊,3316645180,PA,トライインパクト first two ヒットs,
 三重衝擊,1956354608,PA,トライインパクト third impact,
 三重衝擊零式,2041657518,PA,Tri-Impact Crafted first non-slash hit,
@@ -946,8 +946,8 @@ BRJC,4136181738,Special,Just Counter (2-3 gear) second hit,
 埃洛‧光彈,3446127031,PA,shout buff dot,
 通常攻撃(莎莉),639929291,Melee,Cery auto-attack 1,
 莎莉‧爆破,2156897712,PA,サリィプロード,
-莎莉/波普露‧能量場   ,493814577,PA,サリィテリトリー,
-莎莉/波普露‧能量場   ,493814640,PA,サリィテリトリー,
+莎莉/波普露‧能量場,493814577,PA,サリィテリトリー,
+莎莉/波普露‧能量場,493814640,PA,サリィテリトリー,
 莎莉‧弱化彈,3581010262,PA,サリィカース,
 莎莉‧重力場,385030021,PA,サリィフォール,
 莎莉‧追擊彈,385050960,PA,サリィチェイサー,
@@ -1256,31 +1256,31 @@ Emperappy hug <3,2088559161,Special,Emperappy hug <3,
 フォトンキャノン,1954812953,Special,Photon Cannon uncharged,
 フォトンキャノン,2822784832,Special,Photon Cannon charged,
 禍縛の矢,791327364,Special,Binding Arrow Turret,
-フォトン粒子砲,3339644659,Special,Photon Particle turret,
-フォトンレーザー砲,2676260123,Special,Photon Laser Cannon,
-フォトンパニッシャー,224805109,Special,Photon Punisher,
-AIS ソリッドバルカン,119505187,Special,A.I.S rifle (ソリッドバルカン),
-AIS フォトンセイバー,79965782,Special,A.I.S melee first attack (フォトンセイバー),
-AIS フォトンセイバー,79965783,Special,A.I.S melee second attack (フォトンセイバー),
-AIS フォトンセイバー,79965784,Special,A.I.S melee third attack (フォトンセイバー),
-AIS フォトンセイバー,80047171,Special,A.I.S dash melee (フォトンセイバー),
-AIS フォトングレネード,434705298,Special,A.I.S rockets (フォトングレネード),
-AIS フォトンラッシュ,79964675,Special,A.I.S gap closer PA attack (フォトンラッシュ),
-AIS フォトンブラスター,1460054769,Special,A.I.S cannon (フォトンブラスター),
-AIS フォトンブリザード,4081218683,Special,A.I.S mob freezing attack (フォトンブリザード),
-AIS ウィークバスター,3298256598,Special,A.I.S Weak Bullet (ウィークバスター),
-AIS エリアヒール,2826401717,Special,A.I.S heal (エリアヒール),
-マナ速射砲,1913897098,Special,マナ速射砲,
-ラコニウムソード,2235773608,Special,ラコニウムソード,
-ラコニウムソード,2235773610,Special,ラコニウムソード,
-ラコニウムソード,2235773611,Special,ラコニウムソード,
-ラコニウムソード,2235773818,Special,ラコニウムソード,
-ラコニウムソード,2235773926,Special,ラコニウムソード,
-ラコニウムソード,2235773927,Special,ラコニウムソード,
-ラコニウムソード,2235773944,Special,ラコニウムソード,
-ラコニウムソード,2618804663,Special,ラコニウムソード,
-ラコニウムソード,2619614461,Special,ラコニウムソード,
-ラコニウムソード,3607718359,Special,ラコニウムソード,
+粒子砲,3339644659,Special,Photon Particle turret,
+光子激光炮,2676260123,Special,Photon Laser Cannon,
+光子懲罰者,224805109,Special,Photon Punisher,
+AIS 光子軍刀,119505187,Special,A.I.S rifle (ソリッドバルカン),
+AIS 光子軍刀,79965782,Special,A.I.S melee first attack (フォトンセイバー),
+AIS 光子軍刀,79965783,Special,A.I.S melee second attack (フォトンセイバー),
+AIS 光子軍刀,79965784,Special,A.I.S melee third attack (フォトンセイバー),
+AIS 光子軍刀,80047171,Special,A.I.S dash melee (フォトンセイバー),
+AIS 光子榴彈,434705298,Special,A.I.S rockets (フォトングレネード),
+AIS 光子推進,79964675,Special,A.I.S gap closer PA attack (フォトンラッシュ),
+AIS 光子衝擊波,1460054769,Special,A.I.S cannon (フォトンブラスター),
+AIS 光子急凍,4081218683,Special,A.I.S mob freezing attack (フォトンブリザード),
+AIS 光子脆化,3298256598,Special,A.I.S Weak Bullet (ウィークバスター),
+AIS 光子癒合,2826401717,Special,A.I.S heal (エリアヒール),
+速射砲,1913897098,Special,マナ速射砲,
+盾劍,2235773608,Special,ラコニウムソード,
+盾劍,2235773610,Special,ラコニウムソード,
+盾劍,2235773611,Special,ラコニウムソード,
+盾劍,2235773818,Special,ラコニウムソード,
+盾劍,2235773926,Special,ラコニウムソード,
+盾劍,2235773927,Special,ラコニウムソード,
+盾劍,2235773944,Special,ラコニウムソード,
+盾劍,2618804663,Special,ラコニウムソード,
+盾劍,2619614461,Special,ラコニウムソード,
+盾劍,3607718359,Special,ラコニウムソード,
 DB通常攻撃(敗者),2743071591,,,
 DB通常攻撃(敗者),2743062721,,,
 敗者-虛空之矛,1783571383,,,
@@ -1348,9 +1348,87 @@ DB墊步攻擊(雙子),4134333680,Melee,Dark Blast (Double) Step Attack,
 雙子-驚喜重錘,4271466373,PA,Surprise Hammer,
 雙子-驚喜重錘,305729398,PA,Surprise Hammer second hit,
 雙子-瘋狂卡丁車,682884756,PA,Waku Waku Go-Kart physical hit,
-雙子-瘋狂卡丁車,4271465479,PA,"Waku Waku Go-Kart physical hit ""2-wheelie mode""",
+雙子-瘋狂卡丁車,4271465479,PA,Waku Waku Go-Kart physical hit 2-wheelie mode,
 雙子-瘋狂卡丁車,3983075073,PA,Waku Waku Go-Kart projectile,
 雙子-快樂加特林,4271465542,PA,Happy Bazooka,
 雙子-繽紛嘉年華,3593316716,Special,Flower Carnival attacks,
 雙子-繽紛嘉年華,483639921,Special,Flower Carnival finish,
 雙子-極限飄移,472092093,Special,Clutch Step,
+幻影切換(拔刀),2907201045,
+幻影切換(拔刀),2907201492,
+幻影切換(步槍),3786184050,1段階
+幻影切換(步槍),3785421997,
+幻影切換(長杖),404882650,
+幻影切換(長杖)),404882329,
+DCS(拔刀),2765954690,
+DCS(步槍),2600842557,
+DCS(長杖),3301900032,
+テク追撃,2999731584,
+PTF(拔刀),975125104,
+PTF(拔刀),3695463316,
+PTF(步槍),2243620231,
+PTF(步槍),1412080400,
+PTF(長杖),2995855500,
+PTF(長杖),2682739887,
+PTF(長杖),2682739886,
+PTF(長杖),2682739872,
+通常攻撃(幻影拔刀),973258663,
+通常攻撃(幻影拔刀),973258596,
+通常攻撃(幻影拔刀),973258533,
+通常攻撃(幻影拔刀),840700311,
+通常攻撃(幻影拔刀),840699985,
+通常攻撃(幻影拔刀),840699920,
+墊步攻擊(幻影拔刀),980427043,
+印記爆發(幻影拔刀),4188914875,
+化蝶一閃,987960113,斬撃
+化蝶一閃,1599479410,射撃
+化蝶一閃Sh,1599478186,1段
+化蝶一閃Sh,3569709951,2段
+酷刑時間,987960176,
+酷刑時間,1599475427,返し
+酷刑時間Sh,1599473979,
+轟天殞落,1599486311,斬撃
+轟天殞落,987960240,衝撃波
+轟天殞落Sh,2011111966,
+薔薇之劍,654363349,初撃
+薔薇之劍,3569459369,Unknown
+薔薇之劍,3569459371,Unknown
+薔薇之劍,3569459368,Unknown
+薔薇之劍Sh,1398920256,
+薔薇之劍Sh,1705644539,持続斬撃
+通常攻撃(幻影步槍),2491562758,1段目
+通常攻撃(幻影步槍),2491562565,2段目
+通常攻撃(幻影步槍),2491562628,3段目
+墊步攻擊(幻影步槍),1999947508,
+印記爆發(幻影步槍),3089109531,未チャージ追撃
+印記爆發(幻影步槍),2014302715,チャージ
+雷霆疾風,2215020097,Push
+雷霆疾風,2215020162,UnPush
+雷霆疾風Sh,3158383588,連射
+雷霆疾風Sh,1640997085,打止
+夜襲轟擊,3220962310,
+夜襲轟擊,3220962891,爆発
+夜襲轟擊Sh,4046511708,
+罪,4290111736,
+罪Sh,3151257398,
+罰,3288338193,
+罰Sh,4213673767,
+通常攻撃(幻影長杖),2953139672,1段目
+通常攻撃(幻影長杖),2953139611,2段目
+通常攻撃(幻影長杖),2953139290,3段目
+墊步攻擊(幻影長杖),2998890418,
+印記爆發(幻影長杖),1431710595,Uncharged
+印記爆發(幻影長杖),421953627,Charged
+共鳴協奏曲,1579409293,1段目
+共鳴協奏曲,1579408972,2段目
+共鳴協奏曲,1579408900,3段目
+共鳴協奏曲,3522834748,追撃
+共鳴協奏曲Sh,1429241745,Unknown
+共鳴協奏曲Sh,3406878835,Unknown
+殺戮時間,1579594570,
+殺戮時間,2670384126,爆発
+殺戮時間Sh,1579574174,フィールド
+靈敏黑貓,3406887572,
+靈敏黑貓Sh,3406887761,
+鋼鐵之羽,3115083023,
+鋼鐵之羽Sh,3413713363,

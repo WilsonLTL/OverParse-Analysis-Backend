@@ -187,5 +187,15 @@ def caclu():
         return jsonify({"status":False})
 
 
+# @app.route('/skill_cn', methods=["GET","POST"])
+# def skill_cn():
+#     with open(config_location + "skill_tw_hk.csv", "r") as f:
+#         result = {
+#             "status":True,
+#             "data":f.read()
+#         }
+#     return jsonify(result)
+
+
 if __name__ == '__main__':
     app.run(host="0.0.0.0",threaded=True, port=5000)
